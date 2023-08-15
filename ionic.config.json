@@ -1,0 +1,7 @@
+{
+  "name": "gps-cam-files-ionic6",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
